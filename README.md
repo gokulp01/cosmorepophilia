@@ -1,5 +1,7 @@
 # Sleep Shift Scheduling Tool
 # Cosmorepophilia
+### Submission for the NASA Space Apps Challenge
+
 
 ## Sleep loss and fatigue may lead to reduced performance and an increased risk to safety during many activities, including spaceflight. Our challenge was to develop an operational sleep shift scheduling tool that provides autonomous customization of a schedule for sleep, exercise, and nutrition to manage fatigue.
 
@@ -37,6 +39,8 @@ To access the weights of our trained model: [Drive](https://drive.google.com/fil
 
 
 Contributions to the repository is most welcome. (Contributions will be accepted only after the results are declared)
+
+Update: We have been selected as a Global Nominee and also won the People's Choice Award!!!
 
 # Contributing
 
