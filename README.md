@@ -40,7 +40,7 @@ To access the weights of our trained model: [Drive](https://drive.google.com/fil
 
 Contributions to the repository is most welcome. (Contributions will be accepted only after the results are declared)
 
-Update: We have been selected as a Global Nominee and also won the People's Choice Award!!!
+## Update: We have been selected as a Global Nominee and also won the People's Choice Award :shipit:
 
 # Contributing
 
